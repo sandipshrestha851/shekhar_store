@@ -1,0 +1,1 @@
+# This is the basic website of a general store!
